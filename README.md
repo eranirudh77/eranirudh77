@@ -65,9 +65,18 @@ I am a **tech enthusiast** with expertise in **Data Engineering, IT Support, and
 
 ---
 
-## 📈 **GitHub Stats**
-![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=eranirudh77&show_icons=true&theme=radical)  
+
+## 🚀 GitHub Stats
+![Anirudh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eranirudh77&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+## 🌟 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eranirudh77&layout=compact&theme=radical)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eranirudh77&theme=radical)
+
+## 🐍 Contribution Graph
+![Snake Contribution Graph](https://github.com/eranirudh77/eranirudh77/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
