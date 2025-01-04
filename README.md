@@ -1,11 +1,9 @@
-# Hi there! 👋 I'm Anirudh E R
+# Hi there! 👋 I'm Anirudh
 
-🚀 **Data Engineer | Azure Certified | Tech Enthusiast**
+##🚀**Software Developer|Full Stack Web Development| Azure-Certified Cloud Specialist | Big Data & ETL Expert | Specialized in Real-Time Data Processing, Scalable Pipeline Design & Cloud Data Warehousing
+**
 
-
-👋 Hi there!
-
-I am a tech-savvy professional with a versatile background spanning Data Engineering, IT Support, and Full-Stack Development. Passionate about solving complex problems and creating seamless solutions, I thrive at the intersection of technology and innovation. With experience in designing scalable systems, optimizing data pipelines, and providing end-to-end IT support, I ensure business operations run smoothly and efficiently.
+I am a tech-savvy professional with a versatile background spanning Data Engineering, IT Support, and Full-Stack application Development. Passionate about solving complex problems and creating seamless solutions, I thrive at the intersection of technology and innovation. With experience in designing scalable systems, optimizing data pipelines, and providing end-to-end IT support, I ensure business operations run smoothly and efficiently.
 
 🔍 What I Do
 
