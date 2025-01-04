@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Anirudh E R
 
-<!--
-**eranirudh77/eranirudh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | Azure Certified | Tech Enthusiast**
 
-Here are some ideas to get you started:
+## About Me
+- 🌱 I’m currently learning advanced Machine Learning techniques.
+- 💼 With over 3 years of industrial experience, I specialize in building ETL pipelines and cloud-based solutions.
+- ⚡ Fun fact: I love exploring IoT-based applications and solving complex puzzles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apache-spark&logoColor=white)
+
+## GitHub Stats
+![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=eranirudh77&show_icons=true&theme=radical)
+
+## Connect with Me
+📫 [Email](mailto:anirudhramadas007@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eranirudh77) | [GitHub](https://github.com/eranirudh77)
