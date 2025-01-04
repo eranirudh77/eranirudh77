@@ -75,9 +75,6 @@ I am a **tech enthusiast** with expertise in **Data Engineering, IT Support, and
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eranirudh77&theme=radical)
 
-## 🐍 Contribution Graph
-![Snake Contribution Graph](https://github.com/eranirudh77/eranirudh77/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 📬 **Connect with Me**
